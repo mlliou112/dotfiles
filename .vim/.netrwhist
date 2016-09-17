@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/mliou/.vim/spell'
+let g:netrw_dirhist_2='/Users/mliou/.vim/bundle/vim-snippets/UltiSnips'
+let g:netrw_dirhist_3='/Users/mliou/.vim/bundle/vim-snippets'
+let g:netrw_dirhist_4='/Users/mliou/.vim/bundle/vim-snippets/UltiSnips'
+let g:netrw_dirhist_5='/Users/mliou/.vim/bundle/vim-snippets'
+let g:netrw_dirhist_6='/Users/mliou/.vim/bundle/vim-snippets/UltiSnips'
+let g:netrw_dirhist_7='/Users/mliou/.gnupg'

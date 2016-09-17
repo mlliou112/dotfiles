@@ -1,0 +1,21 @@
+# Ignore everything
+*
+
+#Except dotfiles
+!.gitignore
+!.*
+
+# Now ignore
+.DS_Store
+.R*
+.Trash/
+.api_tokens
+.bash_history
+.bashrc_old
+.cheatsheet
+.gitconfig
+.lesshst
+.python_history
+.vim/views
+.viminfo
+.wget-hsts

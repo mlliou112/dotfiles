@@ -1,0 +1,8 @@
+# Don't override the inputrc in etc
+$include /etc/inputrc
+
+# Make autocompletion case insensitive
+set completion-ignore-case on
+
+# Only 1 tab to show possible completions
+set show-all-if-ambiguous on
