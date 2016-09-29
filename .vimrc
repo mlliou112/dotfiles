@@ -50,6 +50,9 @@ set smartcase
 set laststatus=2
 set wildmenu
 set clipboard=unnamed
+set expandtab
+set softtabstop=4
+set tabstop=4
 
 " Moving line shortcut
 nnoremap <C-j> :m .+1<CR>==

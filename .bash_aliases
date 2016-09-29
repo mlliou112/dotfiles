@@ -25,6 +25,7 @@ alias ll="ls -l"
 alias la="ls -la"
 alias lh="ls -d .*"
 alias hacking="cat /dev/urandom | hexdump -C | grep \"ca fe\""
+alias hcc="ssh mliou3@tusker.unl.edu"
 
 # alias ipyspark='IPYTHON_OPTS="notebook" /usr/local/bin/pyspark'
 # alias youtubeextractaudio='youtube-dl --extract-audio --audio-format mp3'
